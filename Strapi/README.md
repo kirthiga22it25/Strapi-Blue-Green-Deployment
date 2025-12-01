@@ -7,7 +7,8 @@ This project automates the **CI/CD pipeline for Strapi CMS** with a **Blue/Green
 - **Amazon ECS (Fargate)** for running Strapi containers
 - **CodeDeploy** for traffic shifting between environments
 
----
+
+
 
 ## 🧩 Architecture Overview
 
@@ -113,6 +114,6 @@ git commit -m "Initial commit"
 git push origin main
 
 
-
+test trigger
 
 
